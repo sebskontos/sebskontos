@@ -8,12 +8,12 @@ I'm a Software Engineering and Law student at the University of Sydney, passiona
 * Artifical Inteligence - PyTorch, TensorFlow
 * ⚡ Cryptography & Security Engineering - Understanding principles of secure system design, privacy, and data protection.
 
-🛠️ Skills & Technologies
+### 🛠️ Skills & Technologies
 * **Languages:** Java, C, Python, SQL (Postgres), JavaScript, HTML, CSS, R
 * **Frameworks:** Gradle, Flask, JUnit, Django
 * **Tools:** Git, Jenkins, Docker, VSCode, IntelliJ, Eclipse
 
-📫 Connect with Me
+### 📫 Connect with Me
 * **Email:** skontossebastian@gmail.com
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
