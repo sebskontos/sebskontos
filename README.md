@@ -7,6 +7,8 @@ I'm a Software Engineering and Law student at the University of Sydney, passiona
 * AI/ML - Knowledge Graphs and graphRAG
 
 ## Skills & Technologies
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebskontos&hide=Jupyter%20Notebook&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=flat)
 ![C](https://img.shields.io/badge/C-informational?logo=cplusplus&style=flat)
 ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&style=flat&logoColor=white)
@@ -26,13 +28,6 @@ I'm a Software Engineering and Law student at the University of Sydney, passiona
 * **LinkedIn:** [@sebastian-skontos](https://www.linkedin.com/in/sebastian-skontos/)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
-
-## My Github Stats
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sebskontos&show_icons=true&theme=transparent" alt="My GitHub Stats"/>
-  </a>
-</p>
 
 <p align="center">
 	<a href="https://sebskontos.github.io"><img src="https://img.shields.io/badge/-View%20Portfolio-informational?logo=googlechrome&logoColor=white&style=flat" alt="Portfolio"></a>
