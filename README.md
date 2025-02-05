@@ -3,15 +3,8 @@
 I'm a Software Engineering and Law student at the University of Sydney, passionate about technology and its intersection with law.
 
 ### Current Areas of Interest & Learning
-* 🔭 iOS Development - Diving into Swift and SwiftUI to build intuitive iOS applications.
-* Computer Vision - OpenCV
-* Artifical Inteligence - PyTorch, TensorFlow
-* ⚡ Cryptography & Security Engineering - Understanding principles of secure system design, privacy, and data protection.
-
-### 🛠️ Skills & Technologies
-* **Languages:** Java, C, Python, SQL (Postgres), JavaScript, HTML, CSS, R
-* **Frameworks:** Gradle, Flask, JUnit, Django
-* **Tools:** Git, Jenkins, Docker, VSCode, IntelliJ, Eclipse
+* 📱 iOS Development - Diving into Swift and SwiftUI to build intuitive iOS applications.
+* AI/ML - Knowledge Graphs and graphRAG
 
 ### 📫 Connect with Me
 * **Email:** skontossebastian@gmail.com
@@ -19,6 +12,6 @@ I'm a Software Engineering and Law student at the University of Sydney, passiona
 Feel free to explore my repositories and reach out if you'd like to collaborate!
 
 <p align="center">
-	<a href="https://github.com/ssko7098"><img src="https://img.shields.io/github/followers/wallarug.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/sebastian-skontos-75392b22b/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://sebskontos.github.io"><img src="https://img.shields.io/badge/-View%20Portfolio-informational?logo=googlechrome&logoColor=white&style=flat" alt="Portfolio"></a>
+	<a href="https://www.github.com/sebskontos/"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=flat&logoColor=white" alt="GitHub"></a>
 </p>
