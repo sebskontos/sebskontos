@@ -2,11 +2,11 @@
 
 I'm a Software Engineering and Law student at the University of Sydney, passionate about technology and its intersection with law.
 
-### Current Areas of Interest & Learning
+## Current Areas of Interest & Learning
 * iOS Development - Diving into Swift and SwiftUI to build intuitive iOS applications.
 * AI/ML - Knowledge Graphs and graphRAG
 
-### Skills & Technologies
+## Skills & Technologies
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=flat)
 ![C](https://img.shields.io/badge/C-informational?logo=cplusplus&style=flat)
 ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&style=flat&logoColor=white)
@@ -21,11 +21,18 @@ I'm a Software Engineering and Law student at the University of Sydney, passiona
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?logo=postgresql&style=flat&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&style=flat&logoColor=black)
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 * **Email:** skontossebastian@gmail.com
 * **LinkedIn:** [@sebastian-skontos](https://www.linkedin.com/in/sebastian-skontos/)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
+
+## My Github Stats
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sebskontos&show_icons=true&theme=transparent" alt="My GitHub Stats"/>
+  </a>
+</p>
 
 <p align="center">
 	<a href="https://sebskontos.github.io"><img src="https://img.shields.io/badge/-View%20Portfolio-informational?logo=googlechrome&logoColor=white&style=flat" alt="Portfolio"></a>
