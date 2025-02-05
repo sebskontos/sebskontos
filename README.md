@@ -23,6 +23,7 @@ I'm a Software Engineering and Law student at the University of Sydney, passiona
 
 ### 📫 Connect with Me
 * **Email:** skontossebastian@gmail.com
+* **LinkedIn:** [@sebastian-skontos](https://www.linkedin.com/in/sebastian-skontos/)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
 
