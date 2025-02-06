@@ -7,7 +7,7 @@ I'm a Software Engineering and Law student at the University of Sydney, passiona
 * AI/ML - Knowledge Graphs and graphRAG
 
 ## Skills & Technologies
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebskontos&hide=Jupyter%20Notebook&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebskontos&hide=Jupyter%20Notebook&layout=donut&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=flat)
 ![C](https://img.shields.io/badge/C-informational?logo=cplusplus&style=flat)
